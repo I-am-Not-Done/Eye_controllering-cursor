@@ -1,6 +1,6 @@
 Eye Controlling Cursor  
 
-A hands-free mouse controller that enables users to control the computer cursor using real-time eye tracking and facial landmark detection.
+A hands-free mouse c. ontroller that enables users to control the computer cursor using real-time eye tracking and facial landmark detection.
 This system uses computer vision techniques to detect facial landmarks and track eye movements, allowing the cursor to move according to head position and perform mouse clicks through blink detection.
 Technologies Used
 - Python
