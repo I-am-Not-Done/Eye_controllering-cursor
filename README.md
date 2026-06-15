@@ -18,4 +18,4 @@ Features
 Applications
 - Accessibility tools for disabled users
 - Human computer interaction research
-- Gesture based interfaces
+- Gesture based interfaces. 
